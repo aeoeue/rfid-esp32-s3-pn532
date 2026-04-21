@@ -1,5 +1,7 @@
 # ESP32-S3 PN532 Access Controller
 
+! AI-assisted, human-tested !
+
 Firmware for an `ESP32-S3-WROOM-1` with a `PN532 NFC RFID V3` module in `SPI` mode.
 
 It reads NFC tags, publishes events to MQTT, integrates with Home Assistant through MQTT discovery, and provides a built-in web UI for setup, diagnostics, tag management, backup/restore, and OTA updates.
