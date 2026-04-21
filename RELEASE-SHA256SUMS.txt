@@ -1,0 +1,6 @@
+a7f9a1ae5008972bcace671aa9443c53bb315a88378866a4db40479272991ed7  github-publish/rfid-esp32-s3-pn532-v0.5.0/ota/rfid-esp32s3-latest.bin
+a7f9a1ae5008972bcace671aa9443c53bb315a88378866a4db40479272991ed7  github-publish/rfid-esp32-s3-pn532-v0.5.0/ota/rfid-esp32s3-0.5.0-20260421-132735.bin
+1776e4dd896a69d0a5c2e79957b0e2a88aa4129b1381d6478683515a1f6af343  github-publish/rfid-esp32-s3-pn532-v0.5.0/web-installer/firmware/bootloader.bin
+1d9cca96de0fe07ad7fc0648b9878ddecd9ce565e38b589ad20fea698ed4c80c  github-publish/rfid-esp32-s3-pn532-v0.5.0/web-installer/firmware/partitions.bin
+a7f9a1ae5008972bcace671aa9443c53bb315a88378866a4db40479272991ed7  github-publish/rfid-esp32-s3-pn532-v0.5.0/web-installer/firmware/firmware.bin
+a2b8d2be204d288a8b2ee2e60caad45984e757454d07a31dd0a17db1a1a92b89  github-publish/rfid-esp32-s3-pn532-v0.5.0/web-installer/firmware/merged.bin

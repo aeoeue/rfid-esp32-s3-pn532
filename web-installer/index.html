@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>ESP32-S3 PN532 Browser Flash</title>
+  <script type="module" src="https://unpkg.com/esp-web-tools@10/dist/web/install-button.js?module"></script>
+  <style>
+    body { font-family: "Trebuchet MS", sans-serif; background: #eef3f7; color: #17202a; margin: 0; }
+    .wrap { max-width: 760px; margin: 40px auto; background: #fff; border-radius: 14px; padding: 24px; box-shadow: 0 12px 26px rgba(0,0,0,.12); }
+    h1 { margin-top: 0; }
+    code { background: #f4f6f8; padding: 2px 6px; border-radius: 6px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Flash ESP32-S3 PN532 Firmware</h1>
+    <p>Connect board by USB, put it in bootloader mode if required, then click:</p>
+    <esp-web-install-button manifest="./manifest.json"></esp-web-install-button>
+    <p>After flashing, open serial monitor at <code>115200</code> baud to find AP + IP info.</p>
+  </div>
+</body>
+</html>
